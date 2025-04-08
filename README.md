@@ -1,12 +1,50 @@
+# 🌦️ Weather Dashboard
+
 # React + Vite
+A sleek and responsive Weather Dashboard app built with **React** and styled using **Tailwind CSS**. It fetches real-time weather data from the **OpenWeatherMap API** and displays current and 5-day weather forecasts for any city!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Weather Dashboard Screenshot](./image.png)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
 
-## Expanding the ESLint configuration
+| Tech              | Use Case                      |
+|-------------------|-------------------------------|
+| ⚛ React JS        | Frontend Framework            |
+| 🌬️ Tailwind CSS    | UI Styling                    |
+| ☁️ OpenWeatherMap | Weather API Data              |
+| ☀️ Vite           | Lightning-fast Development    |
+| 🗃️ dotenv (.env)   | Secure API Key Handling       |
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- 🔍 **Search City:** Get weather info by typing any city name  
+- 📍 **Quick Buttons:** Instant access to predefined cities  
+- 🌗 **Dark/Light Mode:** Toggle between themes  
+- 🗓️ **5-Day Forecast:** Visual cards with rain, temp & humidity  
+- 💨 **Wind Speed & Conditions:** Helpful real-time data  
+- 🔄 **Refresh Weather:** Re-fetch current city data
+
+---
+
+## 📸 Screenshots
+![zynetic weather app](https://github.com/user-attachments/assets/75d42882-ab84-497e-81d6-0a8082b3a52b)
+<img width="234" alt="image" src="https://github.com/user-attachments/assets/401a37a8-5453-47cb-9312-88e898916e95" />
+
+
+### 🔹 Light Mode
+
+<img src="./image.png" alt="Weather Dashboard Light Mode" width="700"/>
+
+---
+
+## 🛠️ Installation
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/yourusername/weather-dashboard.git
+   cd weather-dashboard
+
