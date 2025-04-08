@@ -32,7 +32,6 @@ A sleek and responsive Weather Dashboard app built with **React** and styled usi
 
 ## 📸 Screenshots
 ![zynetic weather app](https://github.com/user-attachments/assets/75d42882-ab84-497e-81d6-0a8082b3a52b)
-<img width="234" alt="image" src="https://github.com/user-attachments/assets/401a37a8-5453-47cb-9312-88e898916e95" />
 
 
 ### 🔹 Light Mode
